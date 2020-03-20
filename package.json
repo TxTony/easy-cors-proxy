@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
-    "express": "~4.4.3",
+    "express": "~4.17.1",
     "request": "^2.36.0",
     "body-parser": "~1.5.2",
     "serve-favicon":"*"
