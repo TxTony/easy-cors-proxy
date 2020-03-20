@@ -5,7 +5,7 @@
   "private": true,
   "dependencies": {
     "express": "~4.4.3",
-    "request": "~2.36.0",
+    "request": "^2.36.0",
     "body-parser": "~1.5.2",
     "serve-favicon":"*"
   }
